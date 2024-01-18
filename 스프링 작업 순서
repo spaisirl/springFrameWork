@@ -1,9 +1,8 @@
-list.xml MessageController MessageMapper.xml MessageMapper.java(updateOpenDate 만들기) -> MessageService(readMessage 업데이트가
+list.xml -> MessageController -> MessageMapper.xml , MessageMapper.java(updateOpenDate 만들기) -> MessageService(readMessage 업데이트가
 잘 됐는지 안됐는지 확인을 위해 boolean read) -> MessageController
 
 쪽지 읽기
 MessageMapper.xml -> ReadMessageDTO 만들기 -> MessageMapper.xml  MessageMapper.java
 
 모달창 작업
-
 list.jsp (message  폴더) -> 부트스트랩에서 모달창 들고오기
